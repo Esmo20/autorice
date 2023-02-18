@@ -12,7 +12,7 @@ This little script will install a collection of command line tools, two window m
 
 1. Install Arch Linux and a graphics driver for your system.
 2. `sudo pacman -S base-devel git` Skip if you already have these.
-3. `git clone https://github.com/tonijarjour/autorice.git .dotfiles`
+3. `git clone https://github.com/Esmo20/autorice.git .dotfiles`
 4. `cd .dotfiles` (You **must** be inside the cloned directory)
 5. `sh install.sh`
 6. Restart your computer after the script finishes.
